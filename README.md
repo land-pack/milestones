@@ -2,13 +2,13 @@
 today as my baseline
 
 
-* ![](http://progressed.io/bar/50?title=professional skills)
+![](http://progressed.io/bar/50?title=professional skills)
 
-* ![](http://progressed.io/bar/40?title=English skills)
+![](http://progressed.io/bar/40?title=English skills)
 
-* ![](http://progressed.io/bar/10?title=social career)
+![](http://progressed.io/bar/10?title=social career)
 
-* ![](http://progressed.io/bar/30?title=relationship status)
+![](http://progressed.io/bar/30?title=relationship status)
 
 
 
