@@ -1,15 +1,19 @@
 ![alt text](https://github.com/land-pack/milestones/blob/master/assets/AK-LOGO/HatchfulExport-All/pinterest_profile_image.png)
 
 
-# milestones
+# milestones [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/land-pack/milestones)
+
 today as my baseline
 
 
 ![](http://progressed.io/bar/50?title=professional)
 
 ![](http://progressed.io/bar/40?title=IELTS)
+
 ![](http://progressed.io/bar/10?title=NAATI)
+
 ![](http://progressed.io/bar/10?title=social)
+
 ![](http://progressed.io/bar/30?title=relationship)
 
 
