@@ -7,10 +7,9 @@ today as my baseline
 
 ![](http://progressed.io/bar/50?title=professional)
 
-![](http://progressed.io/bar/40?title=English)
-
+![](http://progressed.io/bar/40?title=IELTS)
+![](http://progressed.io/bar/10?title=NAATI)
 ![](http://progressed.io/bar/10?title=social)
-
 ![](http://progressed.io/bar/30?title=relationship)
 
 
