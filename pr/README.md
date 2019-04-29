@@ -7,6 +7,7 @@
 | Educationa|    Bachelor  |  15     | ✔︎      |
 | WITHIN   |    1            |  5    |        | 
 | WITHOUT  |    3            |  5    | ✔︎     |
+| CCL  |    -            |  5    |      |
 | Total    |    -            |  65   | ✈︎     |
 
 
