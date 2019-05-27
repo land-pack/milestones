@@ -10,3 +10,7 @@ May we schedule some time to talk about how I might be right for one of your cli
 Thank you,
 
 [Your name]
+
+
+
+Dear XXX, I’m reaching out to explore potential opportunities you have for someone with my background and qualifications. I’m currently a Python Developer with KLOOK and am interested in exploring other positions. May we schedule some time to talk about how I might be right for one of your clients?
